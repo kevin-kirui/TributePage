@@ -1,0 +1,18 @@
+#img-div{
+    max-width: 100px;
+    text-align: center;
+    margin: 40px 20px;
+    max-width: 100%;
+    height: auto;
+
+    padding: 20px 10px 5px;
+   
+}
+
+#image{
+    max-width: 100%;
+    display: 250px;
+    margin: 20px;
+
+    
+}
