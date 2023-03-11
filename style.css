@@ -12,3 +12,9 @@ padding: 20px 10px 5px;
     display: 250px;
     margin: 20px;   
 }
+p{
+    background-color: rgb(140, 25, 90);
+    font-style: inherit;
+    font-size: 15px;
+    font-display: red;
+}
