@@ -1,6 +1,40 @@
+/* Add a background color to the body element */
+body {
+    background-color: #1e83a1; /* Replace with your desired color code */
+}
+
+/* Style other elements as needed */
+header {
+    background-color: #102ad2; /* Example: Dark background color for the header */
+    color: rgb(125, 49, 49); /* Example: White text color for the header */
+}
+
+/* Add more CSS rules to style your page elements */
+
+/* Apply flexbox to the container to center its content */
+.container {
+    display: flex;
+    flex-direction: column; /* Stack items vertically */
+    justify-content: center; /* Center vertically */
+    align-items: center; /* Center horizontally */
+    height: 100vh; /* 100% viewport height to center vertically */
+    background-color: #f0f0f0; /* Background color for the container */
+}
+
+/* Style other elements as needed */
+header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Add more CSS rules to style your page elements */
+
+
 #img-div{
     text-align: center;
-    margin: 40px 20px;
+    margin: 100px 100px;
     max-width: 100%;
     height: auto;
 padding: 20px 10px 5px;
@@ -9,12 +43,12 @@ padding: 20px 10px 5px;
 
 #image{
     max-width: 100%;
-    display: 250px;
-    margin: 20px;   
+    display: 50px;
+    margin: 50px;   
 }
 p{
-    background-color: rgb(140, 25, 90);
+    background-color: rgb(129, 72, 121);
     font-style: inherit;
-    font-size: 15px;
-    font-display: red;
+    font-size: 75px;
+    font-display: rgb(13, 12, 13);
 }
